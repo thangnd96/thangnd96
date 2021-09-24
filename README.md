@@ -7,19 +7,15 @@
 ## 👋 Hi, I’m Thắng
 
 <div>
-  <a href="https://github.com/thangnd96">
-    <img align="left" alt="Thang's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a href="https://facebook.com/.map" target="__blank">
+   <img alt="Thang's Github" width="22px" height="22px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />
   </a>
-
+  &nbsp;
   <a href="mailto:ndthang996@gmail.com">
-    <img align="left" alt="Thang's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img alt="Thang's mail" style="padding: 0" width="22px" height="22px" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" />
   </a>
 
   <img align="right" alt="GIF" width="400px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
-</div>
-
-<div>
-<br/>
 </div>
 
 ### I am a Front End developer 🇻🇳
