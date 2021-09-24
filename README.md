@@ -11,3 +11,5 @@
 <img align="right" alt="GIF" width="400px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
 ### I am a Front End developer 🇻🇳
+
+!(About Me)[bio.gif]
